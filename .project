@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>C%%Users%Salsabila%OneDrive%Dokumen%tio%github%automation%automation.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-3466112268540677060.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SALSAB~1/AppData/Local/Temp/Katalon/Web Services/kat-3466112268540677060.groovy</location>
+		</link>
+		<link>
+			<name>kat-436984540582995932.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SALSAB~1/AppData/Local/Temp/Katalon/Web Services/kat-436984540582995932.groovy</location>
+		</link>
+		<link>
+			<name>kat-6320787042670542923.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SALSAB~1/AppData/Local/Temp/Katalon/Web Services/kat-6320787042670542923.groovy</location>
+		</link>
+		<link>
+			<name>kat-8141834137330973871.groovy</name>
+			<type>1</type>
+			<location>C:/Users/SALSAB~1/AppData/Local/Temp/Katalon/Web Services/kat-8141834137330973871.groovy</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1691993685915</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1691993686023</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
